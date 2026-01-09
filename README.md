@@ -1,5 +1,12 @@
-## Hi there 👋
-
+## Contact
+### Email:
+a1mcgee@ucsd.edu
+## Background
+### UCSB
+- Computer Vision
+- Lithography
+### Work Experience
+- NIWC Robotics
 <!--
 **a1mcgeeucsd/a1mcgeeucsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
