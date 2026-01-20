@@ -6,4 +6,4 @@ a1mcgee@ucsd.edu
 - Computer Vision
 - Lithography
 ### Work Experience
-- Robotics
+- Robotics Engineer
